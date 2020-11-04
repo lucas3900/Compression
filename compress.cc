@@ -1,10 +1,10 @@
 /******************************************************************************
  *
- * Name:        YOUR NAME HERE
+ * Name:        Lucas Barusek
  *
  * Date:        5/12/19
  *
- * Assignment: Compression
+ * Huffman Compression
  *
  * Description: This program utilizes huffman compression to compress and
  uncompress files. Using huffman compression the compressed files will be a

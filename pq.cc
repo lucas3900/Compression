@@ -1,3 +1,8 @@
+/*
+* Lucas Barusek
+* Implementaion of Priority Queue
+*
+*/
 template <typename T>
 priority_queue<T>::priority_queue(int (*cmp)(const T &, const T &)){
   /* priority queue constructor */
